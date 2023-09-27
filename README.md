@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Hi, my name is Aleksei Kromski, I am a back-end developer from Estonia with 5 years of experience. My arsenal includes many programming languages and technologies related to both server-side and client-side development. I have a good knowledge of Golang, Node.js, Java/Kotlin, PHP, as well as popular frameworks including React and Vue.<br><br><br><br>- 🔭 I’m working as software engineer<br>- 📚 I'm currently studyin in Narva Collage (Tartu collage)<br>- ⚡ In my spare time, I create special projects and maintain established ones</p>
+<p align="left">Hi, my name is Aleksei Kromski, I am a back-end developer from Estonia with 5 years of experience. My arsenal includes many programming languages and technologies related to both server-side and client-side development. I have a good knowledge of Golang, Node.js, Java/Kotlin, PHP, as well as popular frameworks including React and Vue.<br><br><br><br>- 🔭 I’m working as software engineer in Kuehne+Nagel<br>- 📚 I'm currently studyin in Narva Collage (Tartu collage)<br>- ⚡ In my spare time, I create special projects and maintain established ones</p>
 
 ###
 
